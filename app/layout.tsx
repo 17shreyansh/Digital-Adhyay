@@ -29,7 +29,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body 
+        className={inter.className} 
+        suppressHydrationWarning={true}
+        data-new-gr-c-s-check-loaded=""
+        data-gr-ext-installed=""
+      >
         <ScrollProgress />
         <Navigation />
         <main className="min-h-screen">

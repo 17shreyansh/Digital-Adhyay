@@ -22,7 +22,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: 'Office',
-    value: 'Murshadpur CNG Pump, Greater Noida',
+    value: 'Ansal Golf Link 1 CE 126',
     href: '#',
   },
 ];

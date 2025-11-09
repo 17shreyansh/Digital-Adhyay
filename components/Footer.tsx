@@ -123,7 +123,7 @@ export function Footer() {
                   +91 85959 48615
                 </li>
                 <li className="hover:text-white transition-colors duration-300">
-                  Murshadpur CNG Pump, Greater Noida
+                  Ansal Golf Link 1 CE 126
                 </li>
               </ul>
 

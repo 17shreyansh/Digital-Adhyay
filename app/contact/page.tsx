@@ -24,7 +24,7 @@ function ContactPage() {
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: 'Murshadpur CNG Pump, Greater Noida',
+      details: 'Ansal Golf Link 1 CE 126',
       description: 'Come say hello at our office'
     },
     {
